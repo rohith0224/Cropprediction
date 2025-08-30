@@ -87,15 +87,4 @@ The dataset `Crop_recommendation.csv` contains information about various crops a
 
 The machine learning model is a **Random Forest Classifier** trained on the dataset. It predicts the most suitable crop based on the input parameters.
 
----
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🙏 Acknowledgments
-
-- Dataset source: [Kaggle](https://www.kaggle.com/)
-- Libraries: Flask, NumPy, Pandas, Scikit-learn
